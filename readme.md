@@ -1,8 +1,9 @@
 docker run --rm -d --name nexus -p 8081:8081 -p 8082:8082 -p 8083:8083 -v /Users/ac31613/Testing/nexus-data:/nexus-data sonatype/nexus3
 
-mvn clean
-mvn clean install
-mvn deploy -s ./settings.xml
+
+* mvn clean
+* mvn clean install
+* mvn deploy -s ./settings.xml
 
 
 
