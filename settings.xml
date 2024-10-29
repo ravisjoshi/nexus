@@ -8,17 +8,17 @@
     <server>
       <id>rjoshi-snapshots</id>
       <username>ravi</username>
-      <password>jugaljoshi</password>
+      <password>********</password>
     </server>
     <server>
       <id>rjoshi-releases</id>
       <username>ravi</username>
-      <password>jugaljoshi</password>
+      <password>********</password>
     </server>
     <server>
       <id>rjoshi-proxy</id>
       <username>ravi</username>
-      <password>jugaljoshi</password>
+      <password>********</password>
     </server>
   </servers>
   <!--  Mirror list -->
